@@ -1,4 +1,4 @@
-// Copyright by Enigma
+// Copyright by Margarita
 #include <Downloader.h>
 
 Html Downloader::loading_https(std::string& host, const std::string& target) {
